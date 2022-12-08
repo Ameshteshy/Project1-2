@@ -257,7 +257,7 @@ int main(int argc, char** argv)
 	glewInit();
 
 	setup();
-	//textureSetup();
+	textureSetup();
 
 	glutMainLoop();
 }
